@@ -52,6 +52,4 @@ The dataset consists of environmental sensor measurements with the following col
 ## 📌 Results  
 - Built a regression model to predict temperature based on humidity and pressure.  
 - Gained insights into the relationship between atmospheric conditions.  
-
-## 📜 License  
-This project is licensed under the MIT License.  
+ 
